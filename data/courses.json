@@ -1,0 +1,12 @@
+[
+  {"id":"CS101","students":40,"professor":"P1"},
+  {"id":"CS102","students":35,"professor":"P2"},
+  {"id":"CS103","students":50,"professor":"P3"},
+  {"id":"CS104","students":25,"professor":"P4"},
+  {"id":"CS105","students":60,"professor":"P5"},
+  {"id":"CS106","students":30,"professor":"P1"},
+  {"id":"CS107","students":45,"professor":"P2"},
+  {"id":"CS108","students":55,"professor":"P3"},
+  {"id":"CS109","students":28,"professor":"P4"},
+  {"id":"CS110","students":38,"professor":"P5"}
+]

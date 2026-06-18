@@ -1,0 +1,7 @@
+[
+  {"id":"P1","name":"Ahmad","availability":["Monday 09:00","Tuesday 09:00"]},
+  {"id":"P2","name":"Ayman","availability":["Monday 11:00","Tuesday 11:00"]},
+  {"id":"P3","name":"Behrooz","availability":["Tuesday 09:00","Tuesday 11:00"]},
+  {"id":"P4","name":"Carsten","availability":["Monday 09:00","Monday 11:00"]},
+  {"id":"P5","name":"Alexandru","availability":["Monday 11:00","Tuesday 09:00"]}
+]

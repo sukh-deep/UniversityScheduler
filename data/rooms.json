@@ -1,0 +1,16 @@
+[
+    {
+        "room_id": "D003",
+        "capacity": 46
+    },
+    {
+        "room_id": "D004",
+        "capacity": 77
+    },
+    {
+        "room_id": "D005",
+        "capacity": 34
+    },
+
+    {"room_id":"D006","capacity":40}
+]
